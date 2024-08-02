@@ -84,6 +84,7 @@ def criar_humano ():
 
 
 while True:
+    print ("===== TESTE ===== ")
     menu_principal()
     opc = int (input('>>> '))
     os.system('cls')
@@ -122,4 +123,5 @@ while True:
                 cachorro.acordado_dormindo()
         else:
             pass
+        
 
