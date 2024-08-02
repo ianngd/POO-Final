@@ -84,7 +84,7 @@ def criar_humano ():
 
 
 while True:
-    print ("===== TESTE ===== ")
+    print ("\n===== BEM VINDO ===== ")
     menu_principal()
     opc = int (input('>>> '))
     os.system('cls')
